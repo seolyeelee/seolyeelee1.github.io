@@ -1,59 +1,51 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
-    "location": {
+    "name": "Jen(n) Lee",
+    "label": "Engineer + Designer",
+    "picture": "https://seolyeelee.github.io/images/IMG_4521.png",
+    "email": "sjl365@cornell.edu",
+    "phone": "+1 484-318-5024",
+    "website": "https://seolyeelee.github.io",
+    "summary": "mechanical engineer with a love for user-centered and environmentally conscious design": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "19301",
+      "city": "Ithaca",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "NY"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "seolyeelee",
+        "url": "http://github.com/seolyeelee"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "sjl365",
+        "url": "http://linkedin.com/in/seol-yee-jennifer-lee-530359193/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "mechanical engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "industrial engineering",
       "keywords": [
       ]
+    },
+    {
+      "name": "product design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "architecutre",
+      "keywords": [
+        ]
     }
   ],
   "skills": [
